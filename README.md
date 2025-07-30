@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # 💫 About Me:
-I'm Josué Charlestin<br>I'm Support Enginer<br>I've 9 years experience
+<h2>I'm Joshsu! <br/><a href="https://github.com/joshmadakor1">Technical Support Engineer</a> and <a href="https://www.linkedin.com/in/joshmadakor/">System and Network Engineer</a></h2>
 
 
 ## 🌐 Socials:
