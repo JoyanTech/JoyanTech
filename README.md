@@ -32,18 +32,6 @@ Passionate and experienced, I‘ve been working as Technical Support Engineer fo
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyantech" alt="joyantech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/joseky" target="blank"><img src="https://img.shields.io/twitter/follow/joseky?logo=twitter&style=for-the-badge" alt="joseky" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyantech&show_icons=true&locale=en&layout=compact" alt="joyantech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyantech&show_icons=true&locale=en" alt="joyantech" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyantech&" alt="joyantech" /></p>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JoyanTech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyanTech&theme=dark&hide_border=false)<br/>
