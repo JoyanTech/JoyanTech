@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>I'm Joshsu! <br/><a href="https://github.com/joshmadakor1">Technical Support Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System and Network Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>I'm Joshsu! <br/><a href="https://github.com/joshmadakor1">Technical Support Engineer</a> and <a href="https://www.linkedin.com/in/joshmadakor/">System and Network Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
